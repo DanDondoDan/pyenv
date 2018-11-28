@@ -1,0 +1,9 @@
+__pycache__
+*.swo
+*.swp
+.idea
+.env
+.venv
+*.pyo
+*.pyc
+.vscode
